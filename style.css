@@ -492,7 +492,7 @@ body {
         margin: 2em 0;
     }
     .icon{
-        margin: 1.5em 0;
+        margin-right: 1.5em;
     }
     footer{
         width: 100vw;
@@ -642,7 +642,7 @@ body {
         font-size: 1.23rem;
     }
     .icon{
-        margin: 1.5em 0;
+        margin-right: 1.5em;
     }
     footer{
         width: 100vw;
