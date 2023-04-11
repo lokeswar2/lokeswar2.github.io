@@ -46,11 +46,11 @@ body {
 /* Home.css  */
 
 .navbar{
-    /* position: fixed; */
+    position: relative;
     width: 100%;
-    /* z-index: 999; */
-    margin-left: 120vh;
+    z-index: 999;
     padding: 30px 0;
+    margin-left: 900px;
     font-family: 'Ubuntu', sans-serif;
     transition: all 0.3s ease;
 }
